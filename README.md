@@ -6,7 +6,9 @@ Before running batch file...
 1. Put the source C file in lib folder and rename it "test.c"
 
 ***remember all opening brackets should be at end of the statement.
+
 for example:
+
 *****correct****
 
 void main(){
@@ -15,7 +17,7 @@ void main(){
 
 *****Wrong****
 
-void main()
+void main()<br>
 {
 }
 
