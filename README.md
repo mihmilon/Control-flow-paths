@@ -12,10 +12,15 @@ for example:
 *****correct****<br>
 void main(){<br>
 }
+if(){<br>
+}
 ****************
 
 *****Wrong****<br>
 void main()<br>
+{<br>
+}
+if()<br>
 {<br>
 }
 ****************
