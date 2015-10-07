@@ -11,7 +11,7 @@ for example:
 
 *****correct****<br>
 void main(){<br>
-}
+}<br>
 if(){<br>
 }
 ****************
@@ -19,7 +19,7 @@ if(){<br>
 *****Wrong****<br>
 void main()<br>
 {<br>
-}
+}<br>
 if()<br>
 {<br>
 }
