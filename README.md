@@ -8,13 +8,17 @@ Before running batch file...
 ***remember all opening brackets should be at end of the statement.
 for example:
 *****correct****
+
 void main(){
 }
 ****************
+
 *****Wrong****
+
 void main()
 {
 }
+
 ****************
 
 
