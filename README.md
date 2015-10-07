@@ -32,3 +32,7 @@ for example: If you input 208 237 then it will compute all path between 208 and 
 Sample output:<br>
 208 209 210 211 212 213 214 215 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 216 217 218 219 181 182 183 ... 235 236 237 <br><br>
 208 209 210 211 212 213 ... 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 228 229 230 231 234 235 236 237 
+<br><br>
+
+
+!!!!Important.... not fully tested. May contain infeasible paths. Give me your result and feedback at milon_mi7@yahoo.com
