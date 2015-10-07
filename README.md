@@ -9,21 +9,20 @@ Before running batch file...
 
 for example:
 
-------correct<br>
+!!!!correct<br>
 void main(){<br>
 }<br>
 if(){<br>
 }
-----------------
 
-------Wrong<br>
+
+!!!!Wrong<br>
 void main()<br>
 {<br>
 }<br>
 if()<br>
 {<br>
 }
--------------
 
 2. open "funcStrtEnd.txt" and add function_name start_node end_node(line no) (for example: decision_algo 208 237).
 You can add more functions.
