@@ -9,14 +9,14 @@ Before running batch file...
 for example:
 *****correct****
 
-void main(){\n
+void main(){
 }
 ****************
 
 *****Wrong****
 
-void main()\n
-{\n
+void main()
+{
 }
 
 ****************
